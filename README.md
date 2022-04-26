@@ -1,2 +1,2 @@
 # Snake Game
-Games Using Python Turtle Graphics
+Snake Game Using Python Turtle Graphics
